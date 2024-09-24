@@ -1,0 +1,18 @@
+.imagem {
+    width: 300px;
+    height: 200px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo {
+    font-size: 16;
+    color: blue;
+}
+
+.paragrafo {
+    text-align: justify;
+}
